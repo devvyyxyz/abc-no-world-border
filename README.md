@@ -1,0 +1,2 @@
+![abc: no world border](https://cdn.modrinth.com/data/cached_images/b002951eca9db34795a8c6e3dad65d35cdbe0949.png)
+Removes the world border visuals for a seamless, boundless world, hides the edge overlay and barrier textures.
